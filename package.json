@@ -1,0 +1,14 @@
+{
+  "name": "youtube",
+  "version": "1.0.0",
+  "description": "My Youtube Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Code-X",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
